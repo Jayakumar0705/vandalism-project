@@ -423,7 +423,5 @@ The application features a **premium dark glassmorphism** design:
 
 ---
 
-## 📄 License
-
-This project is developed as an academic final-year project.
-© 2026 — All rights reserved.
+## 📄 Licence 
+Academic project
